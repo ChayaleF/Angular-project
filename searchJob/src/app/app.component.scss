@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.menu {
+    color: #FFA500;
+    background-color: #808080;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.menu a {
+    color: #FFA500;
+    text-decoration: none;
+}
+
+.content {
+    margin-top: 90px;
+    text-align: center;
+}
+
+.menu p {
+    color: #FFA500;
+}
+
+footer {
+    color: #FFA500;
+    background-color: #808080;
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+
+}
+
+footer p {
+    margin: 5px 0;
+}

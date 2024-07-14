@@ -1,0 +1,30 @@
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    color: #808080; /* אפור */
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #FF4500; /* כתום כהה */
+    border-radius: 5px;
+    outline: none;
+}
+
+button {
+    background-color: #FFA500; /* כתום */
+    color: #808080; /* אפור */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FF4500; /* כתום כהה */
+    color: #fff;
+}

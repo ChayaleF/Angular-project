@@ -1,0 +1,11 @@
+<div class="centered-container" >
+    <div class="job-details">
+        <button class="close-btn" (click)="close()">סגור</button>
+        <p>{{getPosition()?.jobName}}<span class="label">שם המשרה: </span></p>
+        <p>{{position?.jobField}}<span class="label">תחום המשרה: </span></p>
+        <p>{{position?.jobScope}}<span class="label">הקף שעות:</span></p>
+        <p>{{position?.area}}<span class="label">אזור: </span></p>
+        <p>{{position?.hibridi}}<span class="label">היברידי: </span></p>
+        <p>{{position?.requirements}}<span class="label">דרישות: </span></p>
+    </div>
+</div>

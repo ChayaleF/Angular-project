@@ -1,0 +1,9 @@
+<div class="job-details">
+    <p>{{position!.jobName}}<span class="label">שם המשרה: </span></p>
+    <p>{{ position!.jobField|enumToString}}<span class="label">תחום המשרה: </span></p>
+    <p>{{position!.jobScope}} <span class="label">הקף שעות:</span></p>
+    <p>{{position!.area}}<span class="label">אזור: </span></p>
+
+    <button class="btn-show-details" (click)="showDetails()">הצג פרטים</button>
+    <button class="btn-send-cv" (click)="sendCV()">שלח קו"ח</button>
+</div>

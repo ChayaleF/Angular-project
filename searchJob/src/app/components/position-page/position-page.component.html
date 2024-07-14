@@ -1,0 +1,6 @@
+<app-position-filter (filterChange)="filterChange($event)"></app-position-filter>
+<app-positions-list *ngIf="positionToView.length!=0;else d" [positionList]="positionToView" ></app-positions-list>
+<ng-template #d>
+    <app-positions-list *ngIf="filterDetails==null||(filterDetails.field==null&&filterDetails.area=='')" [positionList]="positionSvc.PositionList"></app-positions-list>
+ </ng-template>
+

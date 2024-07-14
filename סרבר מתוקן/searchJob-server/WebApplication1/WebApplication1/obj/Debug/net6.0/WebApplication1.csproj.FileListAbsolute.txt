@@ -1,0 +1,263 @@
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+Z:\Handasa\mora\Angular2\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+Z:\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+Z:\Handasa\mora\Angular2\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\אנגולר\הפרויקט\סרבר מתוקן\costumeRent-Server\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\לימודים\יד\Angular\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\פרויקט\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\user\Documents\studies\year2\angular\Angular-project\סרבר מתוקן\searchJob-server\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll

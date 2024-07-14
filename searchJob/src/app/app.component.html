@@ -1,0 +1,18 @@
+<div class="menu">
+  <a [routerLink]="'login'"><img src="https://www.drushim.co.il/_nuxt/img/logo.e75be30.svg" alt=""></a>
+  <a  [routerLink]="'position-page'">הצג משרות</a>
+  <p *ngIf="userService.User.name===''&& user===null; else showDiff">user</p>
+  <p>מספר קורות חיים  {{userService.cv}}</p>
+
+  <ng-template #showDiff>
+     {{userService.User.name }}
+  </ng-template>
+</div>
+<div class="content">
+  <router-outlet></router-outlet>
+</div>
+<footer>
+  <p>יצירת קשר </p>
+  <p>0548472959</p>
+  <p>0556728176</p>
+</footer>

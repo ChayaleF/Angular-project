@@ -1,0 +1,9 @@
+<form class="search-form" ngForm>
+    <select id="selectField" [(ngModel)]="field" name="selectField">
+        <option *ngFor="let i of fields" [value]="i">{{i | enumToString}}</option>
+    </select>
+    <select id="selectArea" [(ngModel)]="area" name="selectArea">
+        <option *ngFor="let i of areas" [value]="i">{{i}}</option>
+    </select>
+    <button type="submit" (click)="filter()">חפש</button>
+</form>
